@@ -15,7 +15,7 @@ I turn ideas into plans a team can deliver: the requirements that start a produc
 - **Scope and requirements:** write PRDs, FRDs, SRDs and DPRs, and trace each requirement through to its acceptance criteria.
 - **Planning and risk:** keep the decision logs, risk registers, release plans and checklists that keep work moving.
 - **Team coordination:** have led a cross-functional team of 8 across product, marketing, content and customer operations.
-- **Client delivery:** took a Shopify store for a luxury clothing label from architecture to launch.
+- **Client project:** supported 4 Shopify discovery calls and the storefront architecture for a luxury clothing label.
 - **Research for decisions:** ran AI-supported research and BI workflows for government tender bids.
 
 ## Featured project
@@ -37,7 +37,7 @@ A complete product specification for a concept AI travel-planning and booking ap
 
 | Period | Organisation | Focus |
 |---|---|---|
-| 2025⁠–⁠26 | Vihaang AI Global Services | Product specs (FRD / SRD / DPR), Shopify client delivery, tender research |
+| 2025⁠–⁠26 | Vihaang AI Global Services | Product specs (FRD / SRD / DPR), Shopify client project, tender research |
 | 2024⁠–⁠25 | IntouchCX (Walmart) · OpenXtro | Customer operations, around 120 customer chats a day |
 | 2021⁠–⁠24 | Nizam College (Autonomous) | B.Sc. Life Sciences; student engagement lead, 6+ events managed |
 
